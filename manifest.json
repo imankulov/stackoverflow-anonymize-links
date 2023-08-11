@@ -191,7 +191,7 @@
       ]
     }
   ],
-  "description": "Remove the user id from question and answer links on StackOverflow, Super User, Server Fault, and other sites from the StackExchange network.",
+  "description": "Remove the user id from question and answer links on StackOverflow, Super User, and other StackExchange sites.",
   "icons": {
     "16": "icons/logo-16px.png",
     "32": "icons/logo-32px.png",
